@@ -1,15 +1,12 @@
 from __future__ import print_function
 #
-# Chess interface for Thomas Ahle's sunfish engine
-# Code by Alexander Pruss under the MIT license
-#
 #
 # To work, this needs sunfish.py:
 #   The version used right now is:
 #       https://raw.githubusercontent.com/thomasahle/sunfish/ff164af4deb48b62fd63b509dc8e42a83cdfa7e7/sunfish.py
 #   The latest version is at:
 #       https://raw.githubusercontent.com/thomasahle/sunfish/master/sunfish.py
-#
+
 
 from collections import OrderedDict
 from mine import *
